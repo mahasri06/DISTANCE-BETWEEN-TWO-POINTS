@@ -8,12 +8,24 @@ To write a python program to find the distance two 2 points
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 
 ### PROGRAM:
-![image](https://github.com/mahasri06/DISTANCE-BETWEEN-TWO-POINTS/assets/139841897/8b07d0b9-3680-4cce-a7b9-e3c4646d794c)
+```
+Developed by:Mahasri P
+register no. : 212223100029
 
+point1 = [4, 2]
+point2 = [10, 6]
+
+x_diff = point2[0] - point1[0]
+y_diff = point2[1] - point1[1]
+
+distance = round(((x_diff**2) + (y_diff**2))**0.5, 2)
+
+print(distance)
+```
 
 ### OUTPUT:
-![image](https://github.com/mahasri06/DISTANCE-BETWEEN-TWO-POINTS/assets/139841897/fa36a115-6018-4a5d-8661-2f46845d703e)
 
+![Alt text](<Screenshot 2024-04-08 at 8.33.25 PM.png>)
 
 ### RESULT:
 the program executed successfully
