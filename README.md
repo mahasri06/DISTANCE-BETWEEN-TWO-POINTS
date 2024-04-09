@@ -25,7 +25,7 @@ print(distance)
 
 ### OUTPUT:
 
-![Alt text](/image%201.pngimage 1.png)
+![Alttext](/Alttext.pngimage)
 
 
 ### RESULT:
