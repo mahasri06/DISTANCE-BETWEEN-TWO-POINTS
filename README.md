@@ -25,7 +25,7 @@ print(distance)
 
 ### OUTPUT:
 
-![Alt text](<Screenshot 2024-04-08 at 8.33.25 PM.png>)
+![Alt text](/image%201.pngimage 1.png)
 
 
 ### RESULT:
