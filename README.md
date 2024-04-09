@@ -23,10 +23,10 @@ distance = round(((x_diff**2) + (y_diff**2))**0.5, 2)
 print(distance)
 ```
 
+
 ### OUTPUT:
 
-![Alttext](/Alttext.pngimage)
-
+![Alttext](image%201.png)
 
 ### RESULT:
-the program executed successfully
+The program executed successfully.
