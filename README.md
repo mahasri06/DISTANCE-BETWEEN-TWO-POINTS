@@ -26,7 +26,7 @@ print(distance)
 
 ### OUTPUT:
 
-![OUTPUT](<image 1-1.png>)
+![Alt text](<image 1 2.jpeg>)
 
 ### RESULT:
 The program executed successfully.
